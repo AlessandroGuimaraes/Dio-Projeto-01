@@ -1,5 +1,0 @@
-Ola Eliézer, Tudo bem.
-Estou tendo dificuldades em salvar na lista, 
-fiz passo a passo o exemplo e não deu certo.
-tambem não lista os Generos no cadastro.
-Poderia me dar um retorno de onde eu errei.
